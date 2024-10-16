@@ -2,7 +2,7 @@
 
 Aplikasi ini digunakan untuk mengelola data buku di perpustakaan, dibangun menggunakan PHP, HTML, CSS, dan SQLite.
 
-<img src="ss.png">
+<img src="img/ss.png">
 
 ## Fitur
 
